@@ -1,0 +1,36 @@
+---# MidCOM String Database
+---VERSION 2.1.0
+---LANGUAGE sv
+
+---STRING click to create
+Klicka för att skapa Wiki sida
+---STRINGEND
+
+---STRING login to create
+Logga in för att skapa saknad sida
+---STRINGEND
+
+---STRING net.nemein.wiki
+Wiki
+---STRINGEND
+
+---STRING no links to page
+Inga länkar till den här Wiki sidan
+---STRINGEND
+
+---STRING pages linking to %s
+Wikisidor länkade till %s
+---STRINGEND
+
+---STRING this page is stub
+Denna wiki sidan har inget innehåll än. Klicka på ändra för att lägga till information.
+---STRINGEND
+
+---STRING what links
+Vad länkar hit
+---STRINGEND
+
+---STRING wiki
+Wiki
+---STRINGEND
+

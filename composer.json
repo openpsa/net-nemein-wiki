@@ -1,0 +1,27 @@
+{
+    "name": "openpsa/net-nemein-wiki",
+    "type": "midcom-package",
+    "description": "Wiki online notebook",
+    "keywords": ["midcom", "wiki"],
+    "homepage": "https://openpsa2.org",
+    "license": "LGPL-2.1-or-later",
+    "authors": [
+        {
+            "name": "Andreas Flack",
+            "email": "flack@contentcontrol-berlin.de",
+            "homepage": "http://www.contentcontrol-berlin.de/"
+        }
+    ],
+    "require": {
+        "openpsa/midcom-core": "dev-main",
+        "openpsa/net-nemein-tag": "dev-main",
+        "openpsa/org-openpsa-notifications": "dev-main",
+        "openpsa/org-openpsa-widgets": "dev-main",
+        "openpsa/org-openpsa-relatedto": "dev-main"        
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap": ["lib"]
+    }
+}
